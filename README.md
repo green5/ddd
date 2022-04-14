@@ -58,7 +58,7 @@ Support
 TODO
   Много ...
 
-Example
+Screenshot
 <img src="Screenshot-1.jpg">
 
 </pre>
