@@ -41,6 +41,10 @@ Current State
 
 License
   See LICENSE.
+  This project is an open-source project on GitHub released under the terms of an MIT License.
+  You are required to include the following links and copyright notice:
+  green5@2022 Rust
+  in every copy or modified version of this work, and to display that notice on every web page or computer that it runs on.
 
 Links
   https://github.com/damiafuentes/DJITelloPy.git - damiafuentes/DJITelloPy: DJI Tello drone python interface using the official Tello SDK. Feel free to contribute!
@@ -53,5 +57,8 @@ Support
 
 TODO
   Много ...
+
+Example
+<img src="Screenshot-1.jpg">
 
 </pre>
