@@ -37,7 +37,7 @@ Usage
 
 Current State
   q343    на ремонте
-  tello   ok
+  tello   ok (edu or std)
 
 License
   See LICENSE.
@@ -61,4 +61,6 @@ TODO
 Screenshot
 <img src="Screenshot-1.jpg">
 <img src="public/video.jpg">
+
 </pre>
+
