@@ -15,7 +15,7 @@ Installation (Linux,Windows)
   chrome http://APP-HOST:3549/
 
 Usage
-  You can use T4PRO joystick, usb gamepad, keyboard to control drone.
+  You can use T4PRO gamepad, usb joystick (China Dandy analog), keyboard to control drone.
 
   Keys:
   t       Takeoff
@@ -53,7 +53,7 @@ Links
   https://blog.horner.tj/hacking-chinese-drones-for-fun-and-no-profit/ - Взлом китайских дронов ради развлечения и (без) прибыли
   
 Support
-  Пока на https://telegram.me/dji_tello.
+  Пока на https://telegram.me/dji_tello or https://4pda.to/forum/index.php?showtopic=978574.
 
 TODO
   Много ...
